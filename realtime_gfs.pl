@@ -17,9 +17,9 @@ use File::Copy;
 ###############################################################################
 
 #Choose run options.
-	$GEOGRID        = "1";
-        $GETSST         = "1";
-	$DOWNLOAD	= "1";
+	$GEOGRID        = "0";
+        $GETSST         = "0";
+	$DOWNLOAD	= "0";
 	$UNGRIB		= "1";
 	$METGRID        = "1";
 	$REAL           = "1";
